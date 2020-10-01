@@ -27,3 +27,6 @@ from Numbers
 ) temp
     
 where mid between cum_sum - frequency and cum_sum
+
+
+https://www.eversql.com/how-to-calculate-median-value-in-mysql-using-a-simple-sql-query/
