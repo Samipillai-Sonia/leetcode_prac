@@ -54,3 +54,4 @@ left join
 from student
 group by dept_id)t1
 on department.dept_id = t1.dept_id
+order by 2 desc,1 asc
